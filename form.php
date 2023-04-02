@@ -76,11 +76,11 @@
 				echo "<td>Language</td>";
 				echo "<td>".$language."</td>";
 				echo "</tr>";
-                        echo "<tr>";
+                                echo "<tr>";
 				echo "<td>Zipcode</td>";
 				echo "<td>".$zipcode."</td>";
 				echo "</tr>";
-                        echo "<tr>";
+                                echo "<tr>";
 				echo "<td>About</td>";
 				echo "<td>".$About."</td>";
 				echo "</tr>";
